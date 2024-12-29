@@ -64,10 +64,18 @@ body{
     color: var(--cor-texto);
 }
 
+.navegador_1:hover{
+    background-color: #014ca8;
+}
+
 .navegador_2{
     color: var(--cor-texto);
     border: 1px solid var(--cor-rodape);
    
+}
+
+.navegador_2:hover{
+    background-color: var(--cor-rodape);
 }
 
 .botao{
@@ -128,6 +136,10 @@ body{
     text-decoration: none;
     font-size: 16px;
     width: 10em;
+}
+
+.navegador_3:hover{
+    background-color: #014ca8;
 }
 
 .secundario_imagem{
